@@ -1,1 +1,1 @@
-Simple lisp is a custom lisp implementation
+Simple-lisp is a custom lisp implementation
